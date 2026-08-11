@@ -17,6 +17,13 @@
     <img src="https://img.shields.io/badge/✧%20Strawpage-a9d6ff?style=for-the-badge&logo=linktree&logoColor=white">
   </a>
 </p>
+<div align="center">
+
+<a href="https://guns.lol/bannysuperman" target="_blank">
+<img src="https://img.shields.io/badge/✦%20GUNS.LOL-a9d6ff?style=for-the-badge&labelColor=a9d6ff&color=a9d6ff">
+</a>
+
+</div>
 
 $\color{#a9d6ff}{\textsf{- ꜱᴛʀᴀᴡᴘᴀɢᴇ ꜰɪɴᴀʟʟʏ ᴅᴏɴᴇ ɪɢ!.}}$ 
 $\color{#a9d6ff}{\textsf{- ᴘʟᴢ ᴅᴏ ɴᴏᴛ ꜱᴀʏ ɴᴀꜱᴛʏ ꜱᴛᴜꜰꜰ ɪɴ ᴍʏ ᴀᴛᴀ :( ᴛʏ!}}$ 
