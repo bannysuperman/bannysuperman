@@ -16,7 +16,8 @@
   <a href="https://bannysupermann.straw.page">
     <img src="https://img.shields.io/badge/✧%20Strawpage-a9d6ff?style=for-the-badge&logo=linktree&logoColor=white">
   </a>
-</p>
+<a
+
 <div align="center">
 
 <a href="https://guns.lol/bannysuperman" target="_blank">
@@ -24,6 +25,7 @@
 </a>
 
 </div>
+
 
 $\color{#a9d6ff}{\textsf{- ꜱᴛʀᴀᴡᴘᴀɢᴇ ꜰɪɴᴀʟʟʏ ᴅᴏɴᴇ ɪɢ!.}}$ 
 $\color{#a9d6ff}{\textsf{- ᴘʟᴢ ᴅᴏ ɴᴏᴛ ꜱᴀʏ ɴᴀꜱᴛʏ ꜱᴛᴜꜰꜰ ɪɴ ᴍʏ ᴀᴛᴀ :( ᴛʏ!}}$ 
