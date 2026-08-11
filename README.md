@@ -1,4 +1,4 @@
-
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:a9d6ff,100:108ec0&height=2&section=header"/>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Times+New+Roman&size=50&pause=1200&color=a9d6ff&center=true&vCenter=true&width=900&lines=Dreams+save+us.;Dreams+lift+us+up.;And+on+my+soul...+I'll+never+stop+fighting.">
@@ -54,3 +54,5 @@ $\color{#a9d6ff}{\textsf{ʙᴇɪɴɢ ᴍᴇᴀɴ. ᴛʜɪꜱ ɪꜱ ɴᴏᴛ ᴍ�
 <p align="center">
   <img src="https://i.postimg.cc/RFYT1JM6/ezgif-70f329619c41127a.gif" width="100%">
 </p>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:a9d6ff,100:108ec0&height=2&section=header"/>
