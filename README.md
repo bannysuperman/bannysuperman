@@ -38,7 +38,7 @@ $\color{#a9d6ff}{\textsf{ʜᴀᴘᴘʏ!!!}}$
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:a9d6ff,100:108ec0&height=2&section=header"/>
 
 <p align="center">
-  <img src="https://i.postimg.cc/6pTCtmpM/1785271442944.png" width="40">
+  <img src="https://i.postimg.cc/gJsJjpzd/pony-town-Me-Clark-Kent-SIGNATA-C-H-trot-blinking-padded-4x.gif" width="100">
 </p> 
 <p align="center">$\color{#a9d6ff}{\textsf{𝐓𝐡𝐞 𝑪𝒍𝒂𝒓𝒌 𝑲𝒆𝒏𝒕 𝑶𝒇 𝑷𝒐𝒏𝒚𝑻𝒐𝒘𝒏 !}}$   
 
