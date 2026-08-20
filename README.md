@@ -1,13 +1,6 @@
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:a9d6ff,100:108ec0&height=2&section=header"/>
+<div align="center">
+<img src="https://i.postimg.cc/HLfC9GTc/In-Shot-20260820-232637114.png" width="300">
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Times+New+Roman&size=50&pause=1200&color=a9d6ff&center=true&vCenter=true&width=900&lines=Dreams+save+us.;Dreams+lift+us+up.;And+on+my+soul...+I'll+never+stop+fighting.">
-</p>
-<p align="center">
-  <img src="https://i.postimg.cc/wMJdK5ZF/1784928664156.png" width="400"> 
-</p>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:a9d6ff,100:108ec0&height=2&section=header"/>
 
 <p align="center">
   <a href="https://supermanbanny.atabook.org">
@@ -53,17 +46,10 @@ $\color{#a9d6ff}{\textsf{ʜᴀᴘᴘʏ!!!}}$
   <img src="https://i.postimg.cc/8C7zgDqS/In-Shot-20260801-005225327.png" width="70">
 </p>
 
-![Superman](https://img.shields.io/badge/Superman-1%2C938-a9d6ff?style=flat-square&labelColor=4a4a4a)
-![Hope Level](https://img.shields.io/badge/HOPE%20LEVEL-100%25-a9d6ff?style=flat-square&labelColor=4a4a4a)
-
 <p align="center">
   <img src="https://i.postimg.cc/HkvJq6DL/In-Shot-20260811-085159360.png" width="90%">
 </p>
 
-<p align="center">$\color{#a9d6ff}{\textsf{ꜱɪʟʟʏ ᴄᴜᴛᴇ ʜᴀʟ ᴀɴᴅ ᴄʟᴀʀᴋ ᴀʀᴛ ᴀᴡʜ- ᴍᴀᴅᴇ}}$ $\color{#a9d6ff}{\textsf{ʙʏ: ᴍᴇ!}}$ 
-
 <p align="center">
   <img src="https://i.postimg.cc/RFYT1JM6/ezgif-70f329619c41127a.gif" width="100%">
 </p>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:a9d6ff,100:108ec0&height=2&section=header"/>
