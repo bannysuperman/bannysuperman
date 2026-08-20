@@ -1,4 +1,8 @@
 <div align="center">
+<img src="https://img.shields.io/badge/Superman-27.6K-a9d6ff?labelColor=555555" />
+
+
+<div align="center">
 <img src="https://i.postimg.cc/HLfC9GTc/In-Shot-20260820-232637114.png" width="300">
 
 
