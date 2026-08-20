@@ -19,14 +19,6 @@
 
 </div>
 
-$\color{#a9d6ff}{\textsf{- ᴘʟᴢ ᴅᴏ ɴᴏᴛ ꜱᴀʏ ɴᴀꜱᴛʏ ꜱᴛᴜꜰꜰ ɪɴ ᴍʏ ᴀᴛᴀ :( ᴛʏ!}}$ 
-$\color{#a9d6ff}{\textsf{- ɪꜰ ʏᴏᴜ ꜱᴀᴡ ᴀ ᴍᴇꜱꜱᴀɢᴇ ʜᴀᴠᴇ ᴍʏ ɴᴀᴍᴇ ɪɴ}}$ 
-$\color{#a9d6ff}{\textsf{ ꜱᴏᴍᴇᴏɴᴇ'ꜱ ᴀᴛᴀ ꜱᴀʏɪɴɢ ɴᴀꜱᴛʏ ꜱᴛᴜꜰꜰ ᴏʀ}}$ 
-$\color{#a9d6ff}{\textsf{ʙᴇɪɴɢ ᴍᴇᴀɴ. ᴛʜɪꜱ ɪꜱ ɴᴏᴛ ᴍᴇ.}}$
-
-$\color{#a9d6ff}{\textsf{- ᴛᴏ ᴛʜᴇ ᴘᴇᴏᴘʟᴇ ᴡʜᴏ ꜱᴇɴᴅ ᴍᴇ ᴅʀᴀᴡɪɴɢꜱ}}$
-$\color{#a9d6ff}{\textsf{ɪɴ ᴍʏ ꜱᴘ- ᴛʜᴀɴᴋ ʏᴏᴜ ꜱᴏ ᴍᴜᴄʜ! ɪ'ᴍ ᴛʀᴜʟʏ}}$
-$\color{#a9d6ff}{\textsf{ʜᴀᴘᴘʏ!!!}}$ 
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:a9d6ff,100:108ec0&height=2&section=header"/>
 
