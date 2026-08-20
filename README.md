@@ -23,9 +23,6 @@
 
 </div>
 
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:a9d6ff,100:108ec0&height=2&section=header"/>
-
 <p align="center">
   <img src="https://i.postimg.cc/W3Khntz4/pony-town-Me-Clark-Kent-dance-4-blinking-padded-toy373-4x.gif" width="110">
 </p> 
