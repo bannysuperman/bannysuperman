@@ -29,8 +29,9 @@
 <p align="center">
   <img src="https://i.postimg.cc/W3Khntz4/pony-town-Me-Clark-Kent-dance-4-blinking-padded-toy373-4x.gif" width="110">
 </p> 
-<p align="center">$\color{#a9d6ff}{\textsf{𝐓𝐡𝐞 𝑪𝒍𝒂𝒓𝒌 𝑲𝒆𝒏𝒕 𝑶𝒇 𝑷𝒐𝒏𝒚𝑻𝒐𝒘𝒏 !}}$   
-
+<p align="center">$\color{#a9d6ff}{\textsf{𝐓𝐡𝐞 𝑪𝒍𝒂𝒓𝒌 𝑲𝒆𝒏𝒕 𝑶𝒇}}$   
+$\color{#dceeff}{\textsf{𝑷𝒐𝒏𝒚𝑻𝒐𝒘𝒏}}$
+  
 [**@𝑡𝑖𝑡𝑙𝑒-𝑡𝑜𝑤𝑛**](https://github.com/title-town) • [**@𝑝𝑡-ℎ𝑎𝑙𝑙-𝑜𝑓-𝑚𝑒𝑑𝑖𝑎**](https://github.com/pt-hall-of-media) •
 [**@𝑝𝑡-𝑤𝑎𝑙𝑘-𝑜𝑓-𝑓𝑎𝑚𝑒**](https://github.com/pt-walk-of-fame) •
 [**@𝑝𝑡-𝑜𝑓-𝑎𝑤𝑒𝑠𝑜𝑚𝑒𝑛𝑒𝑠𝑠**](https://github.com/pt-of-awesomeness) •
