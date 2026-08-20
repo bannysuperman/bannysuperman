@@ -18,7 +18,7 @@
 <div align="center">
 
 <a href="https://guns.lol/bannysuperman" target="_blank">
-<img src="https://img.shields.io/badge/✦%20GUNS.LOL-a9d6ff?style=for-the-badge&labelColor=a9d6ff&color=a9d6ff">
+<img src="https://img.shields.io/badge/★%20GUNS.LOL-a9d6ff?style=for-the-badge&labelColor=a9d6ff&color=a9d6ff">
 </a>
 
 </div>
