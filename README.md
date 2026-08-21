@@ -69,9 +69,11 @@ $\color{#a9d6ff}{\textsf{𝑪𝒍𝒂𝒓𝒌  𝑲𝒆𝒏𝒕  𝑶𝒇}}$ $\c
 </p>
 
 <p align="center">
-  <img src="https://i.postimg.cc/HkvJq6DL/In-Shot-20260811-085159360.png" width="90%">
+  <img src="https://i.postimg.cc/RFYT1JM6/ezgif-70f329619c41127a.gif" width="100%">
 </p>
 
 <p align="center">
-  <img src="https://i.postimg.cc/RFYT1JM6/ezgif-70f329619c41127a.gif" width="100%">
+  <img src="https://i.postimg.cc/HkvJq6DL/In-Shot-20260811-085159360.png" width="90%">
 </p>
+
+- silly art of my favorite superheros (Me and Hal!) 
