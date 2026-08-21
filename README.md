@@ -17,11 +17,17 @@
 
 <div align="center">
 
+<a href="https://pronouns.cc/@bannysuperman" target="_blank">
+<img src="https://img.shields.io/badge/★%20PRONOUNS.estyle=for-the-badge&labelColor=a9d6ff&color=a9d6ff">
+</a>
+<a
+<div align="center">
+
 <a href="https://guns.lol/bannysuperman" target="_blank">
 <img src="https://img.shields.io/badge/★%20GUNS.LOL-a9d6ff?style=for-the-badge&labelColor=a9d6ff&color=a9d6ff">
 </a>
 
-</div>
+</div> 
 
 <p align="center">$\color{#a9d6ff}{\textsf{𓂃 ࣪˖ ִֶָ𐀔 ───────── 𐀔 ִֶָ˖ ࣪ 𓂃}}$
 
