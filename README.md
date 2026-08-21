@@ -23,8 +23,10 @@
 
 </div>
 
+<p align="center">$\color{#a9d6ff}{\textsf{𓂃 ࣪˖ ִֶָ𐀔 ───────── 𐀔 ִֶָ˖ ࣪ 𓂃}}$
+
 <p align="center">$\color{#dceeff}{\textsf{𝐓𝐡𝐞}}$ 
-$\color{#a9d6ff}{\textsf{𝑪𝒍𝒂𝒓𝒌 𝑲𝒆𝒏𝒕 𝑶𝒇}}$ $\color{#dceeff}{\textsf{𝑷𝒐𝒏𝒚𝑻𝒐𝒘𝒏}}$
+$\color{#a9d6ff}{\textsf{𝑪𝒍𝒂𝒓𝒌  𝑲𝒆𝒏𝒕  𝑶𝒇}}$ $\color{#dceeff}{\textsf{𝑷𝒐𝒏𝒚𝑻𝒐𝒘𝒏}}$
 <table width="100%" cellspacing="0" cellpadding="5">
 <tr>
 
@@ -46,7 +48,7 @@ $\color{#a9d6ff}{\textsf{𝑪𝒍𝒂𝒓𝒌 𝑲𝒆𝒏𝒕 𝑶𝒇}}$ $\col
 
 <img src="https://i.postimg.cc/508yh0F8/pony-town-Me-Clark-Kent-dance-4-blinking-padded-toy373-4x-(1).gif" width="150">
 
-my pony
+>$\color{#a9d6ff}{\textsf{𝐌𝐲}}$ $\color{#dceeff}{\textsf{𝐏𝐨𝐧𝐲}}$ 
 
 </td>
 
