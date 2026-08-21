@@ -18,7 +18,7 @@
 <div align="center">
 
 <a href="https://pronouns.cc/@bannysuperman" target="_blank">
-<img src="https://img.shields.io/badge/★%20PRONOUNS.estyle=for-the-badge&labelColor=a9d6ff&color=a9d6ff">
+<img src="https://img.shields.io/badge/☆%20PRONOUNS.P-dceeff?style=for-the-badge&labelColor=dceeff&color=dceeff">
 </a>
 <a
 <div align="center">
