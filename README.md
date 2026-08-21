@@ -74,6 +74,7 @@ $\color{#a9d6ff}{\textsf{𝑪𝒍𝒂𝒓𝒌  𝑲𝒆𝒏𝒕  𝑶𝒇}}$ $\c
 
 <p align="center">
   <img src="https://i.postimg.cc/HkvJq6DL/In-Shot-20260811-085159360.png" width="90%">
-</p>
+</p> 
 
-- silly art of my favorite superheros (Me and Hal!) 
+$\color{#a9d6ff}{\textsf{Silly art of Me and Hal!}}$ $\color{#a9d6ff}{\textsf{who is my friend}}$
+[**@JAWS0DEATH**](https://github.com/JAWS0DEATH)
