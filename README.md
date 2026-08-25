@@ -54,7 +54,7 @@ $\color{#a9d6ff}{\textsf{𝑪𝒍𝒂𝒓𝒌  𝑲𝒆𝒏𝒕  𝑶𝒇}}$ $\c
 
 <img src="https://i.postimg.cc/508yh0F8/pony-town-Me-Clark-Kent-dance-4-blinking-padded-toy373-4x-(1).gif" width="150">
 
->$\color{#a9d6ff}{\textsf{𝐌𝐲}}$ $\color{#dceeff}{\textsf{𝐏𝐨𝐧𝐲}}$ 
+$\color{#a9d6ff}{\textsf{𝐌𝐲}}$ $\color{#dceeff}{\textsf{𝐏𝐨𝐧𝐲}}$ 
 
 </td>
 
