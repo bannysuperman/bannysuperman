@@ -78,12 +78,6 @@ $\color{#a9d6ff}{\textsf{𝐌𝐲}}$ $\color{#dceeff}{\textsf{𝐏𝐨𝐧𝐲}}
   <img src="https://i.postimg.cc/RFYT1JM6/ezgif-70f329619c41127a.gif" width="100%">
 </p>
 
-<p align="center">
-  <img src="https://i.postimg.cc/HkvJq6DL/In-Shot-20260811-085159360.png" width="90%">
-</p> 
-
-$\color{#a9d6ff}{\textsf{Silly art of Me and Hal!}}$ $\color{#a9d6ff}{\textsf{who is my friend}}$
-[**@JAWS0DEATH**](https://github.com/JAWS0DEATH)
 
 <details>
 <summary>▶ FRIENDS! I LOVE YALL</summary>
@@ -136,3 +130,9 @@ yall the best frfr!!
 </details>
 
 
+<p align="center">
+  <img src="https://i.postimg.cc/HkvJq6DL/In-Shot-20260811-085159360.png" width="90%">
+</p> 
+
+$\color{#a9d6ff}{\textsf{Silly art of Me and Hal!}}$ $\color{#a9d6ff}{\textsf{who is my friend}}$
+[**@JAWS0DEATH**](https://github.com/JAWS0DEATH)
