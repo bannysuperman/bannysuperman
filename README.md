@@ -88,8 +88,10 @@ THE BARBARA GORDON OF PONYTOWN!
 <a href="https://github.com/oraclegordon">@oraclegordon</a><br>
 [they're so cool!] 
 wanted to ask them but i can't find them around, im so sorry... 
+------
+<img src="https://i.postimg.cc/nVkWR6JW/6bc3e1107438ab9860338a4f25ddf3e1.gif" width="40%"> 
 
---------
+
 my dear friends and how *I SEE THEM* ok? 
 
 <br>
