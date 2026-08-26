@@ -86,6 +86,7 @@ Cute idea i got it from:
 <br>
 THE BARBARA GORDON OF PONYTOWN! 
 <a href="https://github.com/oraclegordon">@oraclegordon</a><br>
+[they're so cool!] 
 wanted to ask them but i can't find them around, im so sorry... 
 
 --------
@@ -124,6 +125,7 @@ REN
 <a href="https://github.com/paletteneka">@Yarao Kaneka/Mitsuki</a><br>
 <img src="https://i.postimg.cc/kXrMTPMc/Screenshot-20260826-071150.jpg" width="150"> 
 
+They're so cool, kind, funny- lmao 
 yall the best frfr!! 
 [still gonna add more- gimme time] 
 
