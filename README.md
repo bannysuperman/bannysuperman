@@ -80,7 +80,7 @@ $\color{#a9d6ff}{\textsf{𝐌𝐲}}$ $\color{#dceeff}{\textsf{𝐏𝐨𝐧𝐲}}
 
 
 <details>
-<summary>▶ FRIENDS! I LOVE YALL</summary>
+<summary>▶ FRIENDS! </summary>
 
 Cute idea i got it from:
 <br>
@@ -126,7 +126,6 @@ REN
 <img src="https://i.postimg.cc/kXrMTPMc/Screenshot-20260826-071150.jpg" width="150"> 
 
 They're so cool, kind, funny- lmao 
-yall the best frfr!! 
 [still gonna add more- gimme time] 
 
 </details>
