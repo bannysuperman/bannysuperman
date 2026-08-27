@@ -80,7 +80,7 @@ $\color{#a9d6ff}{\textsf{𝐌𝐲}}$ $\color{#dceeff}{\textsf{𝐏𝐨𝐧𝐲}}
 
 
 <details>
-<summary><b> ⚠️ byi/dni/infos </b></summary>
+<summary><b> byi/dni/infos </b></summary>
 
 <br>
 
