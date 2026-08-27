@@ -80,6 +80,30 @@ $\color{#a9d6ff}{\textsf{𝐌𝐲}}$ $\color{#dceeff}{\textsf{𝐏𝐨𝐧𝐲}}
 
 
 <details>
+<summary><b> ⚠️ byi/dni/infos </b></summary>
+
+<br>
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center">
+
+<a href="https://bannysupermanbyidniptinfos.straw.page">
+<b>CLICK HERE!</b>
+</a>
+
+</td>
+</tr>
+</table>
+
+</div>
+
+</details>
+
+
+<details>
 <summary>▶ FRIENDS! </summary>
 
 ------
