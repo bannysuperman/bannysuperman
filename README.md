@@ -168,9 +168,9 @@ arts of me and my friends ouuu
 
 <br>
 
-<img src="ART_IMAGE_2" width="300">
+<img src="https://i.postimg.cc/J0JVBZ2Z/Untitled745-20260831074101.jpg" width="300">
 
-<p><i> ME AND LEX, hell he hates it (my friend grapz w me here hi grapz).</i></p>
+<p><i> ME AND LEX! heh miku and teto- hell he hates it (my friend grapz w me here hi grapz).</i></p>
 
 ----------
 </div>
