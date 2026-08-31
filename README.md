@@ -153,10 +153,25 @@ They're so cool, kind, funny- lmao
 ------
 </details>
 
+<details>
+<summary>▶ arts ig </summary>
+-------
+<div align="center">
 
-<p align="center">
-  <img src="https://i.postimg.cc/HkvJq6DL/In-Shot-20260811-085159360.png" width="90%">
-</p> 
+arts of me and my friends ouuu
 
-$\color{#a9d6ff}{\textsf{Silly art of Me and Hal!}}$ $\color{#a9d6ff}{\textsf{who is my friend}}$
-[**@JAWS0DEATH**](https://github.com/JAWS0DEATH)
+<br>
+
+<img src="https://i.postimg.cc/HkvJq6DL/In-Shot-20260811-085159360.png" width="300">
+
+<p><i>oldie art of me and hal (my friend ghoul hi ghoul) lmao- i might remake it</i></p>
+
+<br>
+
+<img src="ART_IMAGE_2" width="300">
+
+<p><i> ME AND LEX, hell he hates it (my friend grapz w me here hi grapz).</i></p>
+
+----------
+</div>
+</details>
