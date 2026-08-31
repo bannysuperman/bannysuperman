@@ -168,9 +168,11 @@ arts of me and my friends ouuu
 
 <br>
 
-<img src="https://i.postimg.cc/J0JVBZ2Z/Untitled745-20260831074101.jpg" width="300">
+<img src="https://i.postimg.cc/qMLDD1yB/1788156093206.jpg" width="300">
 
 <p><i> ME AND LEX! heh miku and teto- hell he hates it (my friend grapz w me here hi grapz).</i></p>
+
+star my repo if you think all that shi is good- ok bye
 
 ----------
 </div>
