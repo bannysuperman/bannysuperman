@@ -1,7 +1,12 @@
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:a9d6ff,100:108ec0&height=2&section=header"/>
 
 <div align="center">
-<img src="https://img.shields.io/badge/Superman-27.6K-a9d6ff?labelColor=555555" />
+<img src="https://img.shields.io/badge/Superman-27.6K-a9d6ff?labelColor=555555">
+</a> 
+ <a
+
+  <div align="center">
+<img src="https://img.shields.io/badge/hope-100-a9d6ff?labelColor=555555" />
 
 <div align="center">
 <img src="https://i.postimg.cc/7LyLqTT2/In-Shot-20260821-001552633.png" width="90%">
