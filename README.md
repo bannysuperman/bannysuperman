@@ -6,7 +6,7 @@
  <a
 
   <div align="center">
-<img src="https://img.shields.io/badge/hope-100-a9d6ff?labelColor=555555" />
+<img src="https://img.shields.io/badge/hope-100%-a9d6ff?labelColor=555555" />
 
 <div align="center">
 <img src="https://i.postimg.cc/7LyLqTT2/In-Shot-20260821-001552633.png" width="90%">
