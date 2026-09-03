@@ -170,26 +170,24 @@ They're so cool, kind, funny- lmao
 </details>
 
 <details>
-<summary>▶ arts ig </summary>
--------
+<summary><b> drawin stuff </b></summary>
+
+<br>
+
 <div align="center">
 
-arts of me and my friends ouuu
+<table>
+<tr>
+<td align="center">
 
-<br>
+<a href="https://bannysupermanarts.straw.page">
+<b>ARTS HERE U^ｪ^U!</b>
+</a>
 
-<img src="https://i.postimg.cc/HkvJq6DL/In-Shot-20260811-085159360.png" width="300">
+</td>
+</tr>
+</table>
 
-<p><i>oldie art of me and hal (my friend ghoul hi ghoul) lmao- i might remake it</i></p>
-
-<br>
-
-<img src="https://i.postimg.cc/qMLDD1yB/1788156093206.jpg" width="300">
-
-<p><i> ME AND LEX! heh miku and teto- hell he hates it (my friend grapz w me here hi grapz).</i></p>
-
-star my repo if you think all that shi is good- ok bye
-
-----------
 </div>
+
 </details>
