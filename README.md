@@ -120,7 +120,7 @@ $\color{#a9d6ff}{\textsf{𝐌𝐲}}$ $\color{#dceeff}{\textsf{𝐏𝐨𝐧𝐲}}
 
 
 <details>
-<summary>▶ peak imgs </summary>
+<summary> peak ppl! </summary>
 
 ------
 
