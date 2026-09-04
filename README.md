@@ -168,25 +168,3 @@ They're so cool, kind, funny- lmao
 ------
 </details>
 
-<details>
-<summary><b> drawin stuff </b></summary>
-
-<br>
-
-<div align="center">
-
-<table>
-<tr>
-<td align="center">
-
-<a href="https://bannysupermanarts.straw.page">
-<b>ARTS HERE U^ｪ^U!</b>
-</a>
-
-</td>
-</tr>
-</table>
-
-</div>
-
-</details>
