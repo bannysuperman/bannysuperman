@@ -127,7 +127,7 @@ $\color{#a9d6ff}{\textsf{𝐌𝐲}}$ $\color{#dceeff}{\textsf{𝐏𝐨𝐧𝐲}}
 <img src="https://i.postimg.cc/nVkWR6JW/6bc3e1107438ab9860338a4f25ddf3e1.gif" width="40%"> 
 
 
-friends/ppl i know how *I SEE THEM* ok? 
+friends/ppl i know and how *I SEE THEM* ok? 
 
 <br>
 GHOUL 
