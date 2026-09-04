@@ -120,10 +120,9 @@ $\color{#a9d6ff}{\textsf{𝐌𝐲}}$ $\color{#dceeff}{\textsf{𝐏𝐨𝐧𝐲}}
 
 
 <details>
-<summary>▶ FRIENDS! </summary>
+<summary>▶ peak imgs </summary>
 
 ------
-Cute idea i love this
 
 <img src="https://i.postimg.cc/nVkWR6JW/6bc3e1107438ab9860338a4f25ddf3e1.gif" width="40%"> 
 
