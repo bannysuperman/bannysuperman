@@ -135,7 +135,7 @@ $\color{#a9d6ff}{\textsf{𝐶𝑙𝑎𝑟𝑘 𝐾𝑒𝑛𝑡 𝐴𝑘𝑎}}$ $
 </details>
 
 <details>
-<summary><b> mi friendoz </b></summary>
+<summary><b> mi close friendoz </b></summary>
 
 <br>
 
@@ -153,6 +153,15 @@ $\color{#a9d6ff}{\textsf{𝐶𝑙𝑎𝑟𝑘 𝐾𝑒𝑛𝑡 𝐴𝑘𝑎}}$ $
 </tr>
 </table>
 
+<p align="center">
+  <img src="https://i.postimg.cc/x1VQX2H0/Screenshot-20260906-123020.jpg" width="100%">
+</p> 
+
+ also adding ↓
+ 
+[Chris](https://github.com/wes-borland)
+
+bro made his account pretty late<\3
 </div>
 
 </details>
