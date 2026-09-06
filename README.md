@@ -82,10 +82,8 @@ $\color{#a9d6ff}{\textsf{𝐌𝐲}}$ $\color{#dceeff}{\textsf{𝐏𝐨𝐧𝐲}}
 
 </div>
 
-$\color{#a9d6ff}{\textsf{ℎ𝑒𝑎𝑣𝑦𝑘𝑖𝑛}}$
-$\color{#aextsf{𝐶𝑙𝑎𝑟𝑘 𝐾𝑒𝑛𝑡}}$
-$\color{#a9d6ff}{\textsf{𝐴𝑘𝑎}}$
-$\color{#a9d6ff}{\textsf{𝑆𝑢𝑝𝑒𝑟𝑚𝑎𝑛!}}$
+<p align="center">$\color{#dceeff}{\textsf{ℎ𝑒𝑎𝑣𝑦𝑘𝑖𝑛}}$ 
+$\color{#a9d6ff}{\textsf{𝐶𝑙𝑎𝑟𝑘 𝐾𝑒𝑛𝑡 𝐴𝑘𝑎}}$ $\color{#dceeff}{\textsf{𝑆𝑢𝑝𝑒𝑟𝑚𝑎𝑛!}}$
 
 <p align="center">
   <img src="https://i.postimg.cc/wjfjr34Q/In-Shot-20260801-005830914.png" width="70">
