@@ -84,6 +84,19 @@ $\color{#a9d6ff}{\textsf{𝐌𝐲}}$ $\color{#dceeff}{\textsf{𝐏𝐨𝐧𝐲}}
 
 <p align="center">$\color{#dceeff}{\textsf{ℎ𝑒𝑎𝑣𝑦𝑘𝑖𝑛}}$ 
 $\color{#a9d6ff}{\textsf{𝐶𝑙𝑎𝑟𝑘 𝐾𝑒𝑛𝑡 𝐴𝑘𝑎}}$ $\color{#dceeff}{\textsf{𝑆𝑢𝑝𝑒𝑟𝑚𝑎𝑛!}}$
+<div align="center">
+
+<table>
+<tr>
+<td align="center">
+
+<a href="https://github.com/pt-heavyfictkin">
+<b>𝑝𝑡-ℎ𝑒𝑎𝑣𝑦𝑓𝑖𝑐𝑡𝑘𝑖𝑛</b>
+</a>
+
+</td>
+</tr>
+</table>
 
 <p align="center">
   <img src="https://i.postimg.cc/wjfjr34Q/In-Shot-20260801-005830914.png" width="70">
