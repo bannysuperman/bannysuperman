@@ -110,6 +110,7 @@ $\color{#a9d6ff}{\textsf{𝐶𝑙𝑎𝑟𝑘 𝐾𝑒𝑛𝑡 𝐴𝑘𝑎}}$ $
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:a9d6ff,100:108ec0&height=2&section=header"/>
 
+
 <details>
 <summary><b> byi/dni/infos </b></summary>
 
@@ -133,53 +134,25 @@ $\color{#a9d6ff}{\textsf{𝐶𝑙𝑎𝑟𝑘 𝐾𝑒𝑛𝑡 𝐴𝑘𝑎}}$ $
 
 </details>
 
-
 <details>
-<summary> peak ppl! </summary>
-
-------
-
-<img src="https://i.postimg.cc/nVkWR6JW/6bc3e1107438ab9860338a4f25ddf3e1.gif" width="40%"> 
-
-
-friends/ppl i know and how *I SEE THEM* ok? 
-
-<br>
-GHOUL 
-
-<a href="https://github.com/JAWS0DEATH">@INVINCIBLE/BATMANBEYOND</a><br>
-<img src="https://i.postimg.cc/sf7ZJcPb/In-Shot-20260826-071358615.jpg" width="150">
-
-<br>
-JACK
-
-<a href="https://github.com/SINISTERMARKLOVESU">@SINISTER MARK</a><br>
-<img src="https://i.postimg.cc/L646ZBxT/8220bf261dafc19e195327cca8dbe982.jpg" width="150">
+<summary><b> mi friendoz </b></summary>
 
 <br>
 
-<br>
-PLASMA 
+<div align="center">
 
-<a href="https://github.com/oashushkitten">@JON</a><br>
-<img src="https://i.postimg.cc/PJRcJj3s/7952ac415eeeb3bf25e99773b423bc95.jpg" width="150"> 
+<table>
+<tr>
+<td align="center">
 
-<br>
-GRAPZ
+<a href="https://github.com/pt-friendships">
+<b>pt-friendships!</b>
+</a>
 
-<a href="https://github.com/Kryptoniandog">@NIGHTWING</a><br>
-<img src="https://i.postimg.cc/RFbGQTc7/b019bde1d841b4f5f17bd4b07241ca82.jpg" width="150">
+</td>
+</tr>
+</table>
 
-<br>
-REN
-[forgive me ren-] 
+</div>
 
-<a href="https://github.com/paletteneka">@Yarao Kaneka/Mitsuki</a><br>
-<img src="https://i.postimg.cc/kXrMTPMc/Screenshot-20260826-071150.jpg" width="150"> 
-
-They're so cool, kind, funny- lmao 
-[still gonna add more- gimme time] 
-
-------
 </details>
-
