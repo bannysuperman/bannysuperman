@@ -56,7 +56,8 @@ $\color{#a9d6ff}{\textsf{𝑪𝒍𝒂𝒓𝒌  𝑲𝒆𝒏𝒕  𝑶𝒇}}$ $\c
 <a href="https://github.com/pt-contributers"><b>@𝑝𝑡-𝑐𝑜𝑛𝑡𝑟𝑖𝑏𝑢𝑡𝑒𝑟𝑠</b></a> ☆
 <a href="https://github.com/pt-nominations"><b>@𝑝𝑡-𝑛𝑜𝑚𝑖𝑛𝑎𝑡𝑖𝑜𝑛𝑠</b></a> ☆
 <a href="https://github.com/pt-fashion"><b>@𝑝𝑡-𝑓𝑎𝑠ℎ𝑖𝑜𝑛</b></a> ☆
-<a href="https://github.com/PT-FANtastic-Hall"><b>@𝑃𝑇-𝐹𝐴𝑁𝑡𝑎𝑠𝑡𝑖𝑐-𝐻𝑎𝑙𝑙</b></a>
+<a href="https://github.com/PT-FANtastic-Hall"><b>@𝑃𝑇-𝐹𝐴𝑁𝑡𝑎𝑠𝑡𝑖𝑐-𝐻𝑎𝑙𝑙</b></a> ☆
+<a href="https://github.com/choco-town"><b>@𝑐ℎ𝑜𝑐𝑜-𝑡𝑜𝑤𝑛</b></a>
 
 </td>
 </tr>
