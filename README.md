@@ -1,3 +1,5 @@
+<p align="center">$\color{#a9d6ff}{\textsf{𓂃 ࣪˖ ִֶָ𐀔 ───────── 𐀔 ִֶָ˖ ࣪ 𓂃}}$
+
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:a9d6ff,100:108ec0&height=2&section=header"/>
 
 <div align="center">
@@ -94,7 +96,8 @@ $\color{#a9d6ff}{\textsf{𝐶𝑙𝑎𝑟𝑘 𝐾𝑒𝑛𝑡 𝐴𝑘𝑎}}$ $
 </tr>
 </table>
 
-
+<div align="center">
+<img src="https://i.postimg.cc/8zMnYF4R/In-Shot-20260921-035905008.png" width="150"> 
 
 <p align="center">
   <img src="https://i.postimg.cc/wjfjr34Q/In-Shot-20260801-005830914.png" width="70">
@@ -107,6 +110,8 @@ $\color{#a9d6ff}{\textsf{𝐶𝑙𝑎𝑟𝑘 𝐾𝑒𝑛𝑡 𝐴𝑘𝑎}}$ $
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:a9d6ff,100:108ec0&height=2&section=header"/>
+
+<p align="center">$\color{#a9d6ff}{\textsf{𓂃 ࣪˖ ִֶָ𐀔 ───────── 𐀔 ִֶָ˖ ࣪ 𓂃}}$
 
 
 <details>
