@@ -149,7 +149,7 @@ $\color{#a9d6ff}{\textsf{𝐶𝑙𝑎𝑟𝑘 𝐾𝑒𝑛𝑡 𝐴𝑘𝑎}}$ $
 </table>
 
 <p align="center">
-  <img src="https://i.postimg.cc/x1VQX2H0/Screenshot-20260906-123020.jpg" width="100%">
+  <img src="https://i.postimg.cc/x1VQX2H0/Screenshot-20260906-123020.jpg" width="60%">
 </p> 
 
  also adding ↓
