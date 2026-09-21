@@ -40,7 +40,8 @@
 
 </div> 
 
-<p align="center">$\color{#a9d6ff}{\textsf{𓂃 ࣪˖ ִֶָ𐀔 ───────── 𐀔 ִֶָ˖ ࣪ 𓂃}}$
+<div align="center">
+<img src="https://i.postimg.cc/Qdzxfy66/In-Shot-20260921-035815992.png" width="200"> 
 
 <p align="center">$\color{#dceeff}{\textsf{𝐓𝐡𝐞}}$ 
 $\color{#a9d6ff}{\textsf{𝑪𝒍𝒂𝒓𝒌  𝑲𝒆𝒏𝒕  𝑶𝒇}}$ $\color{#dceeff}{\textsf{𝑷𝒐𝒏𝒚𝑻𝒐𝒘𝒏}}$
@@ -92,6 +93,8 @@ $\color{#a9d6ff}{\textsf{𝐶𝑙𝑎𝑟𝑘 𝐾𝑒𝑛𝑡 𝐴𝑘𝑎}}$ $
 </td>
 </tr>
 </table>
+
+
 
 <p align="center">
   <img src="https://i.postimg.cc/wjfjr34Q/In-Shot-20260801-005830914.png" width="70">
