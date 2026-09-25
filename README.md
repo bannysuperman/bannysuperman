@@ -168,3 +168,9 @@ bro made his account pretty late<\3
 </div>
 
 </details>
+
+<p align="center">
+  <img src="https://i.postimg.cc/W1YrvKBq/49d6c9c45642db999c19257aa074adc5.gif" width="80">
+  <img src="https://i.postimg.cc/W1YrvKBq/49d6c9c45642db999c19257aa074adc5.gif" width="80">
+  <img src="https://i.postimg.cc/W1YrvKBq/49d6c9c45642db999c19257aa074adc5.gif" width="80">
+</p>
