@@ -129,6 +129,8 @@ $\color{#a9d6ff}{\textsf{𝐶𝑙𝑎𝑟𝑘 𝐾𝑒𝑛𝑡 𝐴𝑘𝑎}}$ $
 <b>CLICK HERE!</b>
 </a>
 
+<p align="center">$\color{#a9d6ff}{\textsf{ʟᴀꜱᴛ ᴜᴘᴅᴀᴛᴇ: 2026/ꜱᴇᴘ/24}}$
+
 </td>
 </tr>
 </table>
