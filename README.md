@@ -104,6 +104,6 @@
 
 
 <div align="center">
-<img src="https://i.postimg.cc/nVW1tcTC/In-Shot-20261024-221943138.png" width="500">
+<img src="https://i.postimg.cc/nVW1tcTC/In-Shot-20261024-221943138.png" width="400">
 </a> 
 
