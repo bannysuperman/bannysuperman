@@ -52,7 +52,7 @@
 <table>
 <tr><td align="center">
 
-<a href="https://github.com/pt-title-town"><b>@title-town</b></a> ☆<br><br>
+<a href="https://github.com/title-town"><b>@title-town</b></a> ☆<br><br>
 <a href="https://github.com/pt-hall-of-media"><b>@pt-hall-of-media</b></a> ☆<br><br>
 <a href="https://github.com/pt-walk-of-fame"><b>@pt-walk-of-fame</b></a> ☆<br><br>
 <a href="https://github.com/pt-of-awesomeness"><b>@pt-of-awesomeness</b></a> ☆<br><br>
