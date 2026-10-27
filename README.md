@@ -87,6 +87,13 @@
 
 
 
+<p align="center">$\color{#a9d6ff}{\textsf{𓂃 ࣪˖ ִֶָ𐀔 ───────── 𐀔 ִֶָ˖ ࣪ 𓂃}}$
+
+
+
+
+
+
 <div align="center">
   <table>
     <tr>
