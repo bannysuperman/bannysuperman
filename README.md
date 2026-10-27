@@ -87,8 +87,7 @@
 
 
 
-<p align="center">$\color{#a9d6ff}{\textsf{𓂃 ࣪˖ ִֶָ𐀔 ───────── 𐀔 ִֶָ˖ ࣪ 𓂃}}$
-
+<p align="center">$\color{#C69654}{\textsf{𝑪𝒍𝒂𝒓𝒌 𝑲𝒆𝒏𝒕}}$ $\color{#C69654}{\textsf{𝑂𝑓}}$ $\color{#C69654}{\textsf{𝑷𝒐𝒏𝒚 𝑻𝒐𝒘𝒏}}$
 
 
 
