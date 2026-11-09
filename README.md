@@ -97,7 +97,7 @@
   <table>
     <tr>
       <td>
-        <img src="https://i.postimg.cc/TwQPxFfN/pony-town-Me-Superman-afk-busy-dance-3-blinking-padded-4x.gif" width="120"
+        <img src="https://i.postimg.cc/prb1tRMc/In-Shot-20261110-015155293.png" width="120"
       </td>
       <td>
         <img src="https://i.postimg.cc/htx9WDkH/In-Shot-20261027-032144759.png" width="100"
